@@ -1,0 +1,88 @@
+h3.exclusion {
+	color: yellow !important;
+}
+
+p.exclusion {
+	color: yellow !important;
+}
+/*
+sets body colors
+*/
+
+#page {
+    margin: 0; 
+    position: absolute; 
+    top: 40%; 
+    left: 50%; 
+    -ms-transform: translate(-50%, -50%); 
+    transform: translate(-50%, -50%); 
+    text-align: center;
+}
+
+#indexpage {
+	margin: auto; 
+    max-width: 1000px;
+	padding: 20px;
+    text-align: center;
+}
+
+a{
+    padding: 15px;
+    color: white;
+    display: inline-block;
+}
+
+a:link, a:visited, a:hover, a:focus, a:active {
+    color: white;
+}
+
+table {
+    text-align: center; 
+    margin: auto;
+}
+
+tr, td, th{
+    padding: 10px;
+}
+
+td.good {
+	background-color: green; 
+	color: black;
+}
+
+td.bad {
+	background-color: red; 
+	color: black;
+}
+
+div.assignment {
+	border: 2px solid white;
+	padding: 10px;
+	margin: 10px;
+}
+
+a.menu:link, a.menu:visited, a.menu:hover, a.menu:focus, a.menu:active {
+	color: white;
+	padding: 10px;
+	margin: 10px;
+	border: 2px solid white;
+}
+
+h3.warning {
+	color: red;
+}
+
+.checkboxes {
+    padding-top: 10px;
+}
+
+.checkboxes label{
+    margin-bottom: 10px;
+}
+
+/*
+style for location
+*/
+#location{
+    margin-top: 5px;
+}

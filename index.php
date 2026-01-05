@@ -19,7 +19,7 @@
 		alert("READ ME\nThis Tool does the following to each scanned Chromebook:\n1. Sets status to Ready to Deploy\n2. Sets location to a specific school\nThis Tool should ONLY be used ON-SITE at a school AFTER THE CHROMEBOOK HAS BEEN TAKEN OUT OF THE VAN\nOnce you've read the following message, click 'Okay'");
 	}
 	function outForRepairAlert(){
-		alert("READ ME\nThis Tool does the following to each scanned Chromebook:\n1. Sets status to In Repair\n2. Sets location to Offsite\nThis Tool should ONLY be used IN THE OFFICE IMMEDIATELY BEFORE BEING PACKAGED FOR SHIPPING\nOnce you've read the following message, click 'Okay'");
+		alert("READ ME\nThis Tool does the following to each scanned Chromebook:\n1. Sets status to In Repair\n2. Sets location to In Transit\nThis Tool should ONLY be used IN THE OFFICE IMMEDIATELY BEFORE BEING PACKAGED FOR SHIPPING\nOnce you've read the following message, click 'Okay'");
 	}
 	function repairedAlert(){
 		alert("READ ME\nThis Tool does the following to each scanned Chromebook:\n1. Sets status to Ready to Deploy\n2. Sets location to Office\nThis Tool should ONLY be used IN THE OFFICE IMMEDIATELY AFTER UNPACKING REPAIRED CHROMEBOOKS\nOnce you've read the following message, click 'Okay'");

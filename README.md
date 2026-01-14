@@ -1,0 +1,5 @@
+Intro
+Snipe2ools (internally referred to as SnipeTools) is a sister tool to the ChromebookSolution project for my place of internship. It is heavily built off of the project SnipeTools (internally referred to as SummerTools). It's designed to make various API calls to both an internally hosted deployment of the Snipe IT asset management platform as well as Google Admin to update the statuses of Chromebooks.
+
+Naming Convention
+https://github.com/csquinn/snipetools was developed in the Summer of 2025 as an all-encompassing tool for Snipe IT asset management. While it's functional and still in place in the district, it is only used by a few employees due to its complexity. Snipe2ools was developed to make similar API calls to SnipeTools, but to remove many elements of choice that users had in the process. This was done to simplify the tool into a form that was more easily usable. To minimize more complexity at my place of internship, this new suite of simple tools adopted the original "SnipeTools" name, and the original, complex tools were renamed "SummerTools," as they are largely used by summer substitute technicians.
